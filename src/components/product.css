@@ -1,0 +1,14 @@
+.product {
+    border: 2px solid black;
+    display: inline-block;
+    border-radius: 5 px;
+    padding: 10 px;
+    margin: 10 px;
+    box-shadow: 5px 5px 5px gray;
+}
+.product img {
+    width: 20rem;
+}
+.product label {
+    display: block;
+}
